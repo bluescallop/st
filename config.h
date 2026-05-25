@@ -96,7 +96,7 @@ unsigned int tabspaces = 8;
 /* bg opacity */
 float alpha = 0.8;
 
-#include "/home/scallop/st/colors-wal-st.h"
+#include "/home/scallop/.cache/wal/colors-wal-st.h"
 ///* Terminal colors (16 first used in escape sequence) */
 //static const char *colorname[] = {
 //	/* 8 normal colors */
